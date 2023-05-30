@@ -38,7 +38,7 @@ class Dog {
 }
 
 class Bird {
-  //...
+  //
 }
 ```
 
